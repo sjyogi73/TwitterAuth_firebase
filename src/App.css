@@ -1,38 +1,107 @@
-.App {
-  text-align: center;
+/* Side Images */
+
+.Icon__image{
+    margin:12em 30em 0em 20em;
+    height: 25em;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.img__Company{
+    background-image: url("https://abs.twimg.com/sticky/illustrations/lohp_en_1302x955.png");
+    height: 48em;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+/* LOg Content */
+
+.logForm{
+    background-color: #000;
+    color: #fff;
+}
+.Form{
+    padding-left: 30px;
+}
+.logform__icon{
+    height: 80px;
+    margin: 40px 0 40px 0px;
+}
+.Form>h1{
+    letter-spacing: 3px;
+    font-size: 66px !important;
+    font-weight: 800;
+}
+.logContent>h4{
+    letter-spacing: 1.5px;
+    padding: 30px 0;
+    margin-bottom:25px;
+    font-size: 35px !important;
+    font-weight: 400;
+}
+img{
+    height: 30px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.button{
+    margin-bottom: 30px;
+    width: 20em;
+    background-color: #fff;
+    color: #000;
+    height: 3em;
+    padding: 12px 42px;
+    border-radius: 5em !important;
+    font-weight: 800;
 }
-
-.App-link {
-  color: #61dafb;
+button{
+    margin-top:-1px !important ;
+    font-weight: 500;
+    font-size: 16px;
+    padding-left:em ;
+    background-color: #fff;
+    color: #000;
+    border: none;
 }
+.Log__button{
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+   margin-bottom: 30px;
+   width: 20em;
+   background-color: rgb(81, 81, 232);
+    color: #fff;
+    height: 3em;
+    padding: 12px 42px;
+    border-radius: 5em !important;
+    font-weight: 800;
+}
+.Log__phone{
+    margin-top:-1px !important ;
+    font-weight: 500;
+    font-size: 16px;
+    padding-left:3em ;
+    background-color: rgb(81, 81, 232);
+    color: #fff;
+    border: none;
+}
+.sign__button{
+    
+   margin-bottom: 30px;
+   width: 20em;
+   background-color: #000;
+   border: 1px solid #fff;
+   height: 3em;
+   padding: 12px 42px;
+   border-radius: 5em !important;
+   font-weight: 800;
+}
+.sign__button>button{
+    margin-top:-1px !important ;
+    font-weight: 600 !important;
+    font-size: 16px;
+    padding-left:1.5em ;
+    color: rgb(50, 50, 230);
+    background-color: #000;
+    border: none;
+}
+.Signin>h2{
+    letter-spacing: 0px;
+   
+    margin-bottom:15px;
+    font-size: 20px !important;
+    font-weight: 400;
 }
