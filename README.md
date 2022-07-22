@@ -34,6 +34,15 @@ Method to Run Project in your PC
  # For more Referance See a Below more Images...
 
 
+Login Page Clone From Twitter
+
+![FromAuth](https://user-images.githubusercontent.com/82278181/180420976-ca94560d-59b5-4b22-91b8-90b3309c4abc.png)
+
+
+
+
+Portal for Google Login
+![pic2](https://user-images.githubusercontent.com/82278181/180421379-0c645e0f-b072-4231-8ab3-88d81810f1c7.png)
 
 
 
